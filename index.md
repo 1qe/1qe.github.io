@@ -16,7 +16,7 @@
 [wx/mail](https://wx.nju.edu.cn/njumail/wap/default/index)&
 [oa](https://oa.nju.edu.cn/oa2/)&
 [教服平台](http://elite.nju.edu.cn/jiaowu/)&
-[四六级](https://cet.neea.edu.cn/)&
+[四六级](http://cet.neea.edu.cn/)&
 [itsc](https://itsc.nju.edu.cn/)&
 [box](https://box.nju.edu.cn/)&
 [p](http://p.nju.edu.cn/)&
