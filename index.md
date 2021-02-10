@@ -15,7 +15,7 @@
 [wx](https://wx.nju.edu.cn/homepage/wap/default/home)&
 [wx/mail](https://wx.nju.edu.cn/njumail/wap/default/index)&
 [oa](https://oa.nju.edu.cn/oa2/)&
-[教服平台](https://elite.nju.edu.cn/jiaowu/)&
+[教服平台](http://elite.nju.edu.cn/jiaowu/)&
 [四六级](https://cet.neea.edu.cn/)&
 [itsc](https://itsc.nju.edu.cn/)&
 [box](https://box.nju.edu.cn/)&
@@ -28,4 +28,4 @@
 [cs微服务](http://cs-service.nju.edu.cn/skylake-jsj/)&
 [test](http://test.nju.edu.cn/)&
 [cs云](http://cs-cloud.nju.edu.cn/)&
-
+[教学立方](https://teaching.applysquare.com/)&
