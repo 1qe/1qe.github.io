@@ -3,7 +3,7 @@
 [南大gitlab](https://git.nju.edu.cn)&
 [gitlab](https://gitlab.com)&
 [docker](https://hub.docker.com)&
-[travisCI](https://travisci.org)&
+[travisCI](https://travis-ci.org)&
 
 02
 [cntofu](https://cntofu.com)&
