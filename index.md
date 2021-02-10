@@ -19,13 +19,13 @@
 [四六级](http://cet.neea.edu.cn/)&
 [itsc](https://itsc.nju.edu.cn/)&
 [box](https://box.nju.edu.cn/)&
-[p](http://p.nju.edu.cn/)&
+[p认证](http://p.nju.edu.cn/)&
 [data](http://data.nju.edu.cn/)&
-[sci](https://sci.nju.edu.cn/)&
-[bbs](http://bbs.nju.edu.cn/)&
+[eScience中心](https://sci.nju.edu.cn/)&
 [南小宝](http://njuer.top/)&
-[cslabcms](http://cslabcms.nju.edu.cn/)&
+[cs教学支撑平台](http://cslabcms.nju.edu.cn/)&
 [cs微服务](http://cs-service.nju.edu.cn/skylake-jsj/)&
 [test](http://test.nju.edu.cn/)&
 [cs云](http://cs-cloud.nju.edu.cn/)&
 [教学立方](https://teaching.applysquare.com/)&
+[代理](https://dab19e82e1f9a681ee73346d3e7a575exxx.casb.nju.edu.cn)&
